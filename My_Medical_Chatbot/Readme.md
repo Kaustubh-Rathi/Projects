@@ -54,7 +54,7 @@ Interviewer/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/LaxmiNarayanSharma00/My_Medical_Chatbot.git
+   git clone https://github.com/Kaustubh-Rathi/Projects/My_Medical_Chatbot)
    cd My_Medical_Chatbot
    ```
 
