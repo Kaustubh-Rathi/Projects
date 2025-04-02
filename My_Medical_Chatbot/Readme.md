@@ -1,4 +1,3 @@
-```markdown
 # AI Medical Chatbot - Interviewer
 
 An advanced AI-powered medical chatbot designed to conduct structured clinical interviews and generate detailed psychological reports. Built with Retrieval-Augmented Generation (RAG) using a FAISS vector database, this tool supports multilingual interactions (including Hindi) and offers flexible interview lengths (10–25 questions). It includes two virtual interviewers—Sarah (compassionate) and Aaron (direct)—and can process uploaded patient documents for report generation.
