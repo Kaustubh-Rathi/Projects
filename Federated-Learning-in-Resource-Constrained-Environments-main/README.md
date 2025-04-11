@@ -1,17 +1,5 @@
 # Leveraging Federated Learning for Edge Intelligence in Resource-Constrained Environments
 
-## Team
-
-- **Atharv Badgujar**
-- **Harsh Tirhekar**
-- **Suhail Khan**
-- **Mohniish Gurnani**
-- **Harendra Singh**
-
-## Under Guidance of
-
-Dr. Bibhas Ghoshal
-
 # TensorFlow Federated Learning
 
 ![Cover image](media/cover_image.png)
